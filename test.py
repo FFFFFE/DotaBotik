@@ -8,8 +8,8 @@ pd.set_option('display.max_columns', None)
 
 
 matchID = 7259912747
-steam_key = '3A65F973BAF1C8130DCD77B739C74EC9'
-token = "5447729429:AAF9yxTlohAx75qvtd5gv3mknhRS8xuQ-ts"
+steam_key = ''
+token = ""
 
 
 def send_message(token, message):
